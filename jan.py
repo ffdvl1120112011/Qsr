@@ -1,0 +1,2 @@
+import qsr
+qsr.buy()
